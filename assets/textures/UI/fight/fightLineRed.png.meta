@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "efbfc6ed-8dac-4124-9fc6-85bb532b2077",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "efbfc6ed-8dac-4124-9fc6-85bb532b2077@6c48a",
+      "displayName": "fightLineRed",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "efbfc6ed-8dac-4124-9fc6-85bb532b2077"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "efbfc6ed-8dac-4124-9fc6-85bb532b2077@6c48a"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "203bc32a-3180-473e-988c-b3de7ae43096",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "203bc32a-3180-473e-988c-b3de7ae43096@6c48a",
+      "displayName": "road01",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "203bc32a-3180-473e-988c-b3de7ae43096"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "203bc32a-3180-473e-988c-b3de7ae43096@6c48a"
+  }
+}

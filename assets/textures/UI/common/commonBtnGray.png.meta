@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "811a6451-9561-4c8e-b4c5-e08faceb7098",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "811a6451-9561-4c8e-b4c5-e08faceb7098@6c48a",
+      "displayName": "commonBtnGray",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "811a6451-9561-4c8e-b4c5-e08faceb7098"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "811a6451-9561-4c8e-b4c5-e08faceb7098@6c48a"
+  }
+}

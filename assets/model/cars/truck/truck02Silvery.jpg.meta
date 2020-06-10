@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e7c3bf66-7c95-45a7-b51b-7f342088beda",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e7c3bf66-7c95-45a7-b51b-7f342088beda@6c48a",
+      "displayName": "truck02Silvery",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e7c3bf66-7c95-45a7-b51b-7f342088beda"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "e7c3bf66-7c95-45a7-b51b-7f342088beda@6c48a"
+  }
+}

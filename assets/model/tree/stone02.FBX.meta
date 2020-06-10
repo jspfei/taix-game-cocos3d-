@@ -1,0 +1,123 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1",
+  "files": [],
+  "subMetas": {
+    "7c176": {
+      "importer": "gltf-mesh",
+      "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@7c176",
+      "displayName": "",
+      "id": "7c176",
+      "name": "CJ_PoLinKuang_01.mesh",
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "df7df": {
+      "importer": "gltf-embeded-image",
+      "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@df7df",
+      "displayName": "",
+      "id": "df7df",
+      "name": "贴图 #1.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "a96a6": {
+      "importer": "texture",
+      "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@a96a6",
+      "displayName": "",
+      "id": "a96a6",
+      "name": "贴图 #1.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@df7df"
+      }
+    },
+    "b1faf": {
+      "importer": "gltf-material",
+      "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@b1faf",
+      "displayName": "",
+      "id": "b1faf",
+      "name": "Material #3.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "6bfe5": {
+      "importer": "gltf-scene",
+      "uuid": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@6bfe5",
+      "displayName": "",
+      "id": "6bfe5",
+      "name": "stone02.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #1",
+        "uri": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@df7df"
+      }
+    ],
+    "redirect": "01f0b23b-8b59-447e-9ba1-50deb0916ab1@6bfe5",
+    "assetFinder": {
+      "meshes": [
+        "01f0b23b-8b59-447e-9ba1-50deb0916ab1@7c176"
+      ],
+      "skeletons": [],
+      "textures": [
+        "01f0b23b-8b59-447e-9ba1-50deb0916ab1@a96a6"
+      ],
+      "materials": [
+        "01f0b23b-8b59-447e-9ba1-50deb0916ab1@b1faf"
+      ],
+      "scenes": [
+        "01f0b23b-8b59-447e-9ba1-50deb0916ab1@6bfe5"
+      ]
+    }
+  }
+}

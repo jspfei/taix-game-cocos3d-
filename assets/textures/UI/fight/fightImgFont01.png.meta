@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6b75f3d5-9568-43ab-b078-f504c948ca99",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6b75f3d5-9568-43ab-b078-f504c948ca99@6c48a",
+      "displayName": "fightImgFont01",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6b75f3d5-9568-43ab-b078-f504c948ca99"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "6b75f3d5-9568-43ab-b078-f504c948ca99@6c48a"
+  }
+}

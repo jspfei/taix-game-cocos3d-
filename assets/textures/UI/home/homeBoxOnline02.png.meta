@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "5cceb687-b045-4084-99ab-477f0c91c6fd",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "5cceb687-b045-4084-99ab-477f0c91c6fd@6c48a",
+      "displayName": "homeBoxOnline02",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5cceb687-b045-4084-99ab-477f0c91c6fd"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "5cceb687-b045-4084-99ab-477f0c91c6fd@6c48a"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c855a0d4-ed83-400f-ae6a-60d09325ec26",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c855a0d4-ed83-400f-ae6a-60d09325ec26@6c48a",
+      "displayName": "taxi02Gray",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c855a0d4-ed83-400f-ae6a-60d09325ec26"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "c855a0d4-ed83-400f-ae6a-60d09325ec26@6c48a"
+  }
+}

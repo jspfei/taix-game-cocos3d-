@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "14cc1e0c-8428-47e4-aa9c-e342415da3f8",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "14cc1e0c-8428-47e4-aa9c-e342415da3f8@6c48a",
+      "displayName": "homeBoxGold",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "14cc1e0c-8428-47e4-aa9c-e342415da3f8"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "14cc1e0c-8428-47e4-aa9c-e342415da3f8@6c48a"
+  }
+}

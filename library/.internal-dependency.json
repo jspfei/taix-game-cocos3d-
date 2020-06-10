@@ -1,0 +1,280 @@
+{
+  "uuid": {
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\default-material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\default_renderpipeline\\tonemap.mtl": [
+      "31b152ff-f689-4082-a292-3eb5a0b33014"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\gizmo\\scene-gizmo.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\particle-add.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\ui-sprite-material.mtl": [
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ]
+  },
+  "path": {
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-billboard.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\vert.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle-gpu.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-vs-gpu.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle-trail.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-trail.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-particle.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-vs-legacy.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\transform.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\particle-common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tinted-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\no-tint-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-sprite.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-standard.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\standard-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shading-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\texture-lod.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-terrain.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-toon.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\outline-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\outline-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\toon-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\toon-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\shading-toon.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\lighting.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\builtin-unlit.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\gizmo.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gizmo-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gizmo-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\rect-area-light.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\line-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\line-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sprite-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid-2d.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid-stroke.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\grid.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\grid-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\light.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\light-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\ubo.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\light-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\editor\\terrain-circle-brush.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-brush-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\terrain-brush-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\planar-shadow.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\planar-shadow-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\planar-shadow-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\skybox.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sky-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\sky-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-environment.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unpack.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output-standard.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\smaa.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-edge-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-edge-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-blend-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\smaa-blend-fs.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\pipeline\\tonemap.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tonemap-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\common.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\tonemap-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\aces.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\batched-unlit.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\profiler.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\profiler-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\profiler-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ],
+    "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\effects\\util\\sequence-anim.effect": [
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-vs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-global.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-local.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\input.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\decode-base.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\morph.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\output.chunk",
+      "D:\\project\\CocosDashboard\\resources\\.editors\\Creator3D\\1.1.0\\resources\\app.asar.unpacked\\builtin\\asset-db\\static\\internal\\assets\\chunks\\gamma.chunk"
+    ]
+  }
+}
