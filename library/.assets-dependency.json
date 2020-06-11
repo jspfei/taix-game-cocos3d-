@@ -1,0 +1,18 @@
+{
+  "uuid": {
+    "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\plane\\Materials_plane01\\Material #116.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\road\\Materials_road01\\Material #87.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\plane\\plane01.FBX": [
+      "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\plane\\Materials_plane01\\Material #116.mtl"
+    ],
+    "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\road\\road01.FBX": [
+      "D:\\cocoscreatorspacke\\taix-game-cocos3d\\assets\\model\\road\\Materials_road01\\Material #87.mtl"
+    ]
+  }
+}

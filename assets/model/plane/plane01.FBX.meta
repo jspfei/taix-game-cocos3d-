@@ -63,22 +63,6 @@
         "imageUuidOrDatabaseUri": "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@ad0ee"
       }
     },
-    "e3825": {
-      "importer": "gltf-material",
-      "uuid": "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@e3825",
-      "displayName": "",
-      "id": "e3825",
-      "name": "Material #116.material",
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "gltfIndex": 0
-      }
-    },
     "c13c3": {
       "importer": "gltf-scene",
       "uuid": "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@c13c3",
@@ -113,11 +97,12 @@
         "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@59f96"
       ],
       "materials": [
-        "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@e3825"
+        "0bb05170-b52c-4846-8fca-f0d098bd35f3"
       ],
       "scenes": [
         "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2@c13c3"
       ]
-    }
+    },
+    "dumpMaterials": true
   }
 }
