@@ -37,3 +37,4 @@
 2020-06-11 17:49:29-log: web-mobile@1.0.0 enable
 2020-06-11 17:49:29-log: huawei-mini-game@1.0.0 enable
 2020-06-11 17:49:44-warn: [Scene] Sender does not exist
+2020-06-11 17:51:45-error: [Scene] Error: Can not get asset url by uuid "2fdcc5f6-56d4-4dfb-90e9-08290126b3e2", the asset may be deleted.
